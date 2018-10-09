@@ -1,0 +1,1 @@
+print("Why are these line"+'\n'+"Not running one at a time"+'\n'+"On this platform?")
